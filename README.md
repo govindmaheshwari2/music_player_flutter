@@ -1,6 +1,8 @@
 # music_player_tutorial
 
-A new Flutter project.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/PathwayYT)
+
+[Youtube Video](https://youtube.com/PathwayYT)
 
 ## Getting Started
 
